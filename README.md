@@ -1,16 +1,19 @@
-****Log Analysis Tool****
+**Logalyser**
+
 This Log Analysis Tool is a Python script designed to parse, analyze, and extract insights from web server log files. It helps identify patterns, anomalies, and security issues by processing logs and providing statistics on IP addresses, requested URLs, status codes, and data transferred.
 
-**Features**
+**Features :**
+
 Parse log files and extract relevant information.
 Convert log data into a pandas DataFrame for easy manipulation.
 Analyze logs to find the top IP addresses, requested URLs, status code distribution, and total data transferred.
 Simple and extendable code to fit specific log formats and analysis needs.
 
-**Requirements**
-Python 3.x
-pandas library
-Installation
+**Requirements :**
+
+1. Python 3.x
+2. pandas library
+3. Installation
 
 Clone the repository:
 ```sh
